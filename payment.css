@@ -10,7 +10,7 @@ header{
 .container{
     background: white;
     max-width: 801px;
-    min-height: 500px;
+    min-height: 501px;
     display: flex;
     justify-content: space-between;
     align-items: flex-start;
